@@ -1,3 +1,0 @@
-[submodule "gaesite"]
-	path = gaesite
-	url = https://github.com/paulftw/appengine-flask-template.git
